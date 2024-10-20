@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+
+
+#main {
+    height: 500px;
+    width: 400px;
+    text-align: right;
+    margin-left: 50px;
+}
+
+p {
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: rgb(179, 0, 27);
+    font-family: "Gravitas One", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    padding-top: 5px;
+    box-sizing: border-box;
+
+}
+
+.para {
+    height: 200px;
+    width: 300px;
+    background-color: rgb(0, 179, 164);
+    text-align: center;
+    overflow: overlay;
+    font-family: "Caveat", cursive;
+    font-size: large;
+    font-weight: bold;
+    font-style: normal;
+
+
+}
+
+.para2 {
+    /* color: white; */
+    height: 150px;
+    width: 230px;
+    /* background-color: rgb(46, 5, 85); */
+    text-align: center;
+    border-style: dotted dashed solid double;
+    border-right: 0PX;
+    box-sizing: border-box;
+    padding-top: 5px;
+    margin-left: 10PX;
+}
